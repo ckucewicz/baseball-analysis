@@ -3,6 +3,8 @@
 ## Project Goal
 This project aims to analyze the relationship between a player's height and their hitting power.
 
+## Business Understanding
+
 ## Data Understanding  
 
 ### Data Preparation
@@ -18,7 +20,13 @@ Within the 'People' file, I used two columns for my analysis, which included var
 
 The variables `height` and `weight` show nearly identical correlations to the target of career home runs (`career_hrs`). 
 
-## Modeling
+## Exploratory Data Analysis
 
-## Evaluation
+## Conclusion
+
+### Limitations
+
+### Recommendations
+
+### Next Steps
 
