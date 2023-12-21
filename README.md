@@ -1,9 +1,7 @@
 # Baseball: Homerun Analysis
 
-## Project Goal
+## Project Goal/Business Understanding
 This project aims to analyze the relationship between a player's height and their hitting power.
-
-## Business Understanding
 
 ## Data Understanding  
 
